@@ -1,0 +1,8 @@
+C:\Users\Binoj\source\repos\FactoryPattern\singleton\bin\Debug\singleton.exe.config
+C:\Users\Binoj\source\repos\FactoryPattern\singleton\bin\Debug\singleton.exe
+C:\Users\Binoj\source\repos\FactoryPattern\singleton\bin\Debug\singleton.pdb
+C:\Users\Binoj\source\repos\FactoryPattern\singleton\obj\Debug\singleton.csproj.CoreCompileInputs.cache
+C:\Users\Binoj\source\repos\FactoryPattern\singleton\obj\Debug\singleton.exe
+C:\Users\Binoj\source\repos\FactoryPattern\singleton\obj\Debug\singleton.pdb
+C:\Users\Binoj\source\repos\FactoryPattern\singleton\bin\Debug\singleton.exe.CodeAnalysisLog.xml
+C:\Users\Binoj\source\repos\FactoryPattern\singleton\bin\Debug\singleton.exe.lastcodeanalysissucceeded
