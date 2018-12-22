@@ -1,0 +1,6 @@
+C:\Users\Binoj\source\repos\FactoryPattern\MVC_new\bin\Debug\MVC_new.exe.config
+C:\Users\Binoj\source\repos\FactoryPattern\MVC_new\bin\Debug\MVC_new.exe
+C:\Users\Binoj\source\repos\FactoryPattern\MVC_new\bin\Debug\MVC_new.pdb
+C:\Users\Binoj\source\repos\FactoryPattern\MVC_new\obj\Debug\MVC_new.csproj.CoreCompileInputs.cache
+C:\Users\Binoj\source\repos\FactoryPattern\MVC_new\obj\Debug\MVC_new.exe
+C:\Users\Binoj\source\repos\FactoryPattern\MVC_new\obj\Debug\MVC_new.pdb
